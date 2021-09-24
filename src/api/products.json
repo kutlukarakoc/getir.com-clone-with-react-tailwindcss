@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Kuzeyden",
+        "price": "₺2,95",
+        "picURL": "https://cdn.getir.com/product/5a7b20fd8e19da0004bb27f8_tr_1615375864268.jpeg",
+        "portion": "1.5 L"
+    },
+    {
+        "id": 2,
+        "name": "Kızılay Erzincan",
+        "price": "5,90",
+        "picURL": "https://cdn.getir.com/product/60018c5bca2126d84459c47f_tr_1610788125046.jpeg",
+        "portion": "6 x 200 ml"
+    },
+    {
+        "id": 3,
+        "name": "Lay's Mevsim Yeşillikli",
+        "price": "₺6,39",
+        "picURL": "https://cdn.getir.com/product/5bc97aabb137fb001d751ac7_tr_1609123518121.jpeg",
+        "portion": "96 g"
+    },
+    {
+        "id": 4,
+        "name": "Eti Canga",
+        "price": "₺2,85",
+        "picURL": "https://cdn.getir.com/product/5f3538dc71a71226677fba17_tr_1624437105104.jpeg",
+        "portion": "45 g"
+    },
+    {
+        "id": 5,
+        "name": "Ülker Napoliten",
+        "price": "₺3,30",
+        "picURL": "https://cdn.getir.com/product/574b2219dee8a90300f18d24_tr_1599938278519.jpeg",
+        "portion": "33 g"
+    },
+    {
+        "id": 6,
+        "name": "Kavrulmuş Siyah Ay Çekirdeği",
+        "price": "₺10,95",
+        "picURL": "https://cdn.getir.com/product/5ccaf4ff1a1763000175a869_tr_1580904995656.jpeg",
+        "portion": "180 g"
+    },
+    {
+        "id": 7,
+        "name": "Magnum Badem",
+        "price": "₺7,50",
+        "picURL": "https://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
+        "portion": "100 ml"
+    },
+    {
+        "id": 8,
+        "name": "İçim %3 Yağlı Süt",
+        "price": "₺7,95",
+        "picURL": "https://cdn.getir.com/product/5ced482d4a8a2a000137da6d_tr_1623652387464.jpeg",
+        "portion": "1 L"
+    },
+    {
+        "id": 9,
+        "name": "Bahçıvan Süzme Peynir",
+        "price": "₺20,75",
+        "picURL": "https://cdn.getir.com/product/5ce65823a72a950001cc88c0_tr_1609902381949.jpeg",
+        "portion": "500 g"
+    },
+    {
+        "id": 10,
+        "name": "Hertane Kuru Sele Zeytin",
+        "price": "₺33,90",
+        "picURL": "https://cdn.getir.com/product/6012ba4c08793829b89aa6ed_tr_1612597125797.jpeg",
+        "portion": "285 g"
+    },
+    {
+        "id": 11,
+        "name": "Lo Lorraine Tombul Ekmek",
+        "price": "₺5,95",
+        "picURL": "https://cdn.getir.com/product/5f36a28b29d3b131b9d95548_tr_1602251256220.jpeg",
+        "portion": "350 g"
+    },
+    {
+        "id": 12,
+        "name": "Barilla Spagetti",
+        "price": "₺7,35",
+        "picURL": "https://cdn.getir.com/product/5ca77244d1b0a8000103d13c_tr_1609121717343.jpeg",
+        "portion": "500 g"
+    },
+    {
+        "id": 13,
+        "name": "Colgate Üçlü Etki",
+        "price": "₺18,25",
+        "picURL": "https://cdn.getir.com/product/5c3f4ee999f6570001f27a73_tr_1585136793449.jpeg",
+        "portion": "150 ml"
+    },
+    {
+        "id": 14,
+        "name": "Selpak Tuvalet Kağıdı",
+        "price": "₺57,90",
+        "picURL": "https://cdn.getir.com/product/595b8c52fca4ec0004417ee8_tr_1601369369934.jpeg",
+        "portion": "16'lı"
+    },
+    {
+        "id": 15,
+        "name": "Yumoş Extra Lilyum & Lotus",
+        "price": "₺30,49",
+        "picURL": "https://cdn.getir.com/product/5ac780d556352c000435251f_tr_1631104777493.jpeg",
+        "portion": "1440 ml"
+    },
+    {
+        "id": 16,
+        "name": "Domestos Dağ Esintisi",
+        "price": "₺8,35",
+        "picURL": "https://cdn.getir.com/product/5d7f8dd10ed2c200010d5152_7e995b77-30f9-47ee-b28c-f4ed7ed00373.jpeg",
+        "portion": "750 ml"
+    }
+]
