@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 
 const Favorites = () => {
 
-    const [products, setProducts] = useState(productDatas);
+    const [products, setProducts] = useState([]);
 
     useEffect(() => {
         setProducts(productDatas)
