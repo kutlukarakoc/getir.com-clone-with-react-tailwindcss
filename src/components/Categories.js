@@ -3,7 +3,7 @@ import categoriesDatas from "api/categories.json";
 import { useEffect, useState } from "react";
 
 const Categories = () => {
-    const [categories, setCategories] = useState(categoriesDatas);
+    const [categories, setCategories] = useState([]);
 
     useEffect(()=> {
         setCategories(categoriesDatas)
